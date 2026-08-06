@@ -1,6 +1,8 @@
 # shiteki
 :p
 
+py -m pip --version
+
 -windowed -w 400 -h 300 -low -nosound -nojoy -novid -threads 2 +fps_max 15 +engine_low_latency_sleep_after_client_tick 1
 
 vprof_off
